@@ -1,0 +1,26 @@
+/*
+Theme Name: generatepress-child
+Template: generatepress
+*/
+
+@import url("../generatepress/style.css");
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 50px;
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif ; 
+}
+
+div.wpforms-container-full .wpforms-form input[type=submit], div.wpforms-container-full .wpforms-form button[type=submit], div.wpforms-container-full .wpforms-form .wpforms-page-button{
+    background-color: #588157;
+    border-radius: 9999px;
+    color: white;
+}
+
+#um-submit-btn{
+    background-color: #588157;
+}
+
